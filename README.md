@@ -1,6 +1,5 @@
 # EVault-Legal-Record-IPFS-Management-System
 ![Youtube Video](https://github.com/Nitishkumar3/eVault/blob/main/E-Vault%20Screenshots/Uploaded%20file.png)
-![Main Interface](https://raw.githubusercontent.com/yourusername/yourrepository/main/screenshot1.png)
 ![Login](https://github.com/Nitishkumar3/eVault/blob/main/E-Vault%20Screenshots/Login.png)
 ![Register](https://github.com/Nitishkumar3/eVault/blob/main/E-Vault%20Screenshots/Register.png)
 ![DashBoard](https://github.com/Nitishkumar3/eVault/blob/main/E-Vault%20Screenshots/Dashboard.png)
@@ -14,4 +13,3 @@
 ![File Inbox](https://github.com/Nitishkumar3/eVault/blob/main/E-Vault%20Screenshots/File%20Inbox.png)
 ![Downloaded File](https://github.com/Nitishkumar3/eVault/blob/main/E-Vault%20Screenshots/Download%20file.png)
 ![Existing Database](https://github.com/Nitishkumar3/eVault/blob/main/E-Vault%20Screenshots/Existing%20Records.png)
-![Mongo DB](https://github.com/Nitishkumar3/eVault/blob/main/E-Vault%20Screenshots/Mongo%20DB.png)
