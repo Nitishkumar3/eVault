@@ -1,5 +1,4 @@
 # EVault-Legal-Record-IPFS-Management-System
-[🎥 Watch the project demo on YouTube](https://youtu.be/HPXpVJBqgs4)
 ![Youtube Video](https://github.com/Nitishkumar3/eVault/blob/main/E-Vault%20Screenshots/Uploaded%20file.png)
 ![Main Interface](https://raw.githubusercontent.com/yourusername/yourrepository/main/screenshot1.png)
 ![Login](https://github.com/Nitishkumar3/eVault/blob/main/E-Vault%20Screenshots/Login.png)
