@@ -1,4 +1,4 @@
-# EVault-Legal-Record-IPFS-Management-System
+# EVault: A Decentralized Legal Record Management System
 ![Youtube Video](https://github.com/Nitishkumar3/eVault/blob/main/E-Vault%20Screenshots/Uploaded%20file.png)
 ![Login](https://github.com/Nitishkumar3/eVault/blob/main/E-Vault%20Screenshots/Login.png)
 ![Register](https://github.com/Nitishkumar3/eVault/blob/main/E-Vault%20Screenshots/Register.png)
